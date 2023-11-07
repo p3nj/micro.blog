@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://benny.micro.blog/2023/11/07/oh-gpt-just.html",
+				
+				"content_html": "<p>Oh GPT just got 2 year worth of knowledge update.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Oh GPT just got 2 year worth of knowledge update.\n\n<img src=\"uploads/2023/241988a159.png\" width=\"600\" height=\"212\" alt=\"\">\n",
+				"date_published": "2023-11-07T12:00:27+10:00",
+				"url": "https://micro.benji.ltd/2023/11/07/oh-gpt-just.html"
+			},
+			{
+				"id": "http://benny.micro.blog/2023/11/03/yep-i-broke.html",
+				
+				"content_html": "<p>Yep I broke the gpt.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Yep I broke the gpt.\n\n<img src=\"uploads/2023/03f1aadd7a.png\" width=\"600\" height=\"316\" alt=\"\">\n",
+				"date_published": "2023-11-03T15:11:02+10:00",
+				"url": "https://micro.benji.ltd/2023/11/03/yep-i-broke.html"
+			},
+			{
+				"id": "http://benny.micro.blog/2023/11/02/i-can-tell.html",
+				
+				"content_html": "<p>I can tell that nowadays, many people are trying to reinvent the wheel.</p>\n",
+				"content_text": "I can tell that nowadays, many people are trying to reinvent the wheel.\n",
+				"date_published": "2023-11-02T14:05:37+10:00",
+				"url": "https://micro.benji.ltd/2023/11/02/i-can-tell.html"
+			},
+			{
+				"id": "http://benny.micro.blog/2023/10/31/kerlock-homes-an.html",
+				
+				"content_html": "<h1 id=\"kerlock-homes---an-innovative-program-might-protect-the-kernel\">Kerlock Homes - An innovative program might protect the Kernel.</h1>\n<p>Based on a recent research of mine on eBPF. I&rsquo;ve created a program called Kerlock Homes, which aim to use multiple eBPF program to protect the attacker using eBPF to hide the trace of the attack.\n<a href=\"https://github.com/p3nj/KerlockHomes\">github.com/p3nj/Kerl&hellip;</a></p>\n",
+				"content_text": "# Kerlock Homes - An innovative program might protect the Kernel.\nBased on a recent research of mine on eBPF. I've created a program called Kerlock Homes, which aim to use multiple eBPF program to protect the attacker using eBPF to hide the trace of the attack. \n[github.com/p3nj/Kerl...](https://github.com/p3nj/KerlockHomes)\n",
+				"date_published": "2023-10-31T10:55:05+10:00",
+				"url": "https://micro.benji.ltd/2023/10/31/kerlock-homes-an.html"
+			},
+			{
 				"id": "http://benny.micro.blog/2023/10/16/sometimes-i-think.html",
 				
 				"content_html": "<p>Sometimes, I think it&rsquo;s impossible to be happy or me not trying harder.</p>\n",
