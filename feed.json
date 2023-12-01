@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://benny.micro.blog/2023/12/02/not-gonna-lie.html",
+				
+				"content_html": "<p>Not gonna lie Elon’s statement to advertisers are good enough for me to consider the premium of X.</p>\n",
+				"content_text": "Not gonna lie Elon’s statement to advertisers are good enough for me to consider the premium of X. \n",
+				"date_published": "2023-12-02T08:09:03+10:00",
+				"url": "https://micro.benji.ltd/2023/12/02/not-gonna-lie.html"
+			},
+			{
 				"id": "http://benny.micro.blog/2023/11/23/i-guess-today.html",
 				
 				"content_html": "<p>I guess today was a good day.</p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://benny.micro.blog/2023/11/07/oh-gpt-just.html",
 				
 				"content_html": "<p>Oh GPT just got 2 year worth of knowledge update.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oh GPT just got 2 year worth of knowledge update.\n\n<img src=\"uploads/2023/241988a159.png\" width=\"600\" height=\"212\" alt=\"\">\n",
+				"content_text": "Oh GPT just got 2 year worth of knowledge update.\n\n<img src=\"https://cdn.uploads.micro.blog/121335/2023/241988a159.png\" width=\"600\" height=\"212\" alt=\"\">\n",
 				"date_published": "2023-11-07T12:00:27+10:00",
 				"url": "https://micro.benji.ltd/2023/11/07/oh-gpt-just.html"
 			},
