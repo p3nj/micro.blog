@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://benny.micro.blog/2023/12/20/yesterday-i-had.html",
+				
+				"content_html": "<p>Yesterday, I had an order to pack and deliver two tubs of Oreo-flavored ice cream along with a 24-pack of 350ml Coke cans. Upon reaching the delivery location, I was unable to find the customer, Mr. C. Despite waiting for 15 minutes and trying to contact him through messages and calls, which were redirected to voicemail, I couldn&rsquo;t complete the delivery as it required a PIN code.\nI contacted support and had the delivery canceled. Surprisingly, Mr. C still generously tipped me almost half the cost of the order. I wanted to let Mr. C know, in case he comes across this post, that I ended up giving the Coke cans to homeless individuals near the CBD area. Given the hot weather, I kept the ice cream, as it wouldn&rsquo;t have been practical to distribute it.</p>\n",
+				"content_text": "Yesterday, I had an order to pack and deliver two tubs of Oreo-flavored ice cream along with a 24-pack of 350ml Coke cans. Upon reaching the delivery location, I was unable to find the customer, Mr. C. Despite waiting for 15 minutes and trying to contact him through messages and calls, which were redirected to voicemail, I couldn't complete the delivery as it required a PIN code.\nI contacted support and had the delivery canceled. Surprisingly, Mr. C still generously tipped me almost half the cost of the order. I wanted to let Mr. C know, in case he comes across this post, that I ended up giving the Coke cans to homeless individuals near the CBD area. Given the hot weather, I kept the ice cream, as it wouldn't have been practical to distribute it.\n",
+				"date_published": "2023-12-20T07:07:58+10:00",
+				"url": "https://micro.benji.ltd/2023/12/20/yesterday-i-had.html"
+			},
+			{
 				"id": "http://benny.micro.blog/2023/12/14/so-the-way.html",
 				
 				"content_html": "<p>So the way Apple replied to beeper is to add Key Transparency and Contact Key to the iMessage, neat. <em>wink</em></p>\n",
