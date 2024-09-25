@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://benny.micro.blog/2024/09/25/decided-to-move.html",
+				
+				"content_html": "<p>Decided to move on to NixOS because I cannot stand for the restriction of Fedora Silverblue.\nProbably should document all the steps here and then form the blog post from here.</p>\n",
+				"content_text": "Decided to move on to NixOS because I cannot stand for the restriction of Fedora Silverblue.\r\nProbably should document all the steps here and then form the blog post from here.\n",
+				"date_published": "2024-09-25T21:11:25+10:00",
+				"url": "https://micro.benji.ltd/2024/09/25/decided-to-move.html"
+			},
+			{
+				"id": "http://benny.micro.blog/2024/06/01/why-i-create.html",
+				
+				"content_html": "<p>Why I create my instagram account in Australia, I still get alot of posts from the country where I from?\nThe phone number is brandnew in Australia, accounts are created in Australia too.</p>\n",
+				"content_text": "Why I create my instagram account in Australia, I still get alot of posts from the country where I from?\r\nThe phone number is brandnew in Australia, accounts are created in Australia too.\n",
+				"date_published": "2024-06-01T13:36:30+10:00",
+				"url": "https://micro.benji.ltd/2024/06/01/why-i-create.html"
+			},
+			{
+				"id": "http://benny.micro.blog/2024/05/30/m-screws-are.html",
+				
+				"content_html": "<p>M.2 screws are the worst invention based on how fragile they are.</p>\n",
+				"content_text": "M.2 screws are the worst invention based on how fragile they are. \n",
+				"date_published": "2024-05-30T10:37:38+10:00",
+				"url": "https://micro.benji.ltd/2024/05/30/m-screws-are.html"
+			},
+			{
 				"id": "http://benny.micro.blog/2024/05/29/overhear-the-conversation.html",
 				
 				"content_html": "<p>Overhear the conversation of my girlfriend with her parents overseas, the reality hits me again since I don&rsquo;t have my dad around me anymore, the pressure starts to suffocate me.\nFind a job, buy a house, pay the loan, nine to five.\nAt the end of the day, everything shall be fine, right?</p>\n",
